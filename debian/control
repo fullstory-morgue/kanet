@@ -1,0 +1,13 @@
+Source: kanet
+Section: net
+Priority: extra
+Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Build-Depends: cdbs, debhelper (>= 5.0.0)
+Standards-Version: 3.6.2
+
+Package: kanet
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, tcl8.4, ppp
+Recommends: kmail, konqueror, firefox
+Description: dial in tool for ppp connections
+ kaNet is a simple tcl based connection helper for ppp connections.

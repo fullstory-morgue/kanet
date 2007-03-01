@@ -1,3 +1,10 @@
+kanet (0.02-2) ORPHANED; urgency=low
+
+  * NOT RELEASED YET
+  * ORPHAN PACKAGE
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu,  1 Mar 2007 17:13:09 +0100
+
 kanet (0.02-1) unstable; urgency=low
 
   * Initial release.
